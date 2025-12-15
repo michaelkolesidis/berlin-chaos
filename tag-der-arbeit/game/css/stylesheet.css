@@ -1,0 +1,190 @@
+body {
+	background: #4c4c4c;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	font-family: arial, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	line-height: 15px;
+	text-align: center;
+}
+
+a {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+.maincontainer {
+	position: relative;
+	background-image:url(../images/index_bg.gif);
+	background-repeat: no-repeat;
+	width: 644px;
+	height: 406px;
+	margin: 10px auto 0px auto;
+	overflow: hidden;
+	text-align: center;
+}
+
+.sidebar {
+	margin: 0px;
+	padding: 1px 0px 0px 0px;
+	border: 0px;
+	float: left;
+}
+
+.content {
+	margin: 0px;
+	padding: 1px 0px 0px 0px;
+	border: 0px;
+	float: left;
+}
+
+.banner, .banner img {
+	width: 468px;
+	margin: 20px auto 15px auto;
+	border: 0;
+}
+
+.banner a, .banner a:active, .banner a:visited, .banner a:focus {
+	margin: 0px;
+	padding: 0px;
+	border: 0;
+	text-decoration: none;
+}
+
+
+.startGameBtn {
+	position: absolute;
+	top: 30px;
+	left: 465px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.downloadFlashBtn {
+	position: absolute;
+	top: 362px;
+	left: 22px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.xjBtn {
+	position: absolute;
+	top: 424px;
+	left: 345px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+
+
+/* foot section */
+
+.foot {
+	width: 640px;
+	margin: 10px auto 0px auto;
+}
+
+.foot p {
+	margin: 0px;
+	padding: 0px;
+}
+
+.copyright, .copyright img {
+	margin: 0px;
+	padding: 2px 0px 0px 0px;
+	border: 0;
+	float: left;
+}
+
+.producer {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+}
+
+.producer img {
+	margin: 0px 0px 0px 2px;
+	padding: 0px;
+	border: 0;
+	text-decoration: none;
+}
+
+.producer a, a:active, a:visited, a:hover {
+	margin: 0px;
+	padding: 0px;
+	border: 0;
+	text-decoration: none;
+}
+
+
+
+/*
+.normal{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #CCCCCC;
+	
+}
+
+.btn {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #333333; text-align: justify;
+
+}
+
+.quicklaunch {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	background-color: #FFFFFF;
+	width: 180px;
+
+}
+
+.formfield {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	background : none;
+	border : none;
+	width: 151px;
+	
+}
+
+.formbox {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	background-color: #FFFFFF;
+	width: 370px;
+	height: 89px;
+
+}
+
+.formbtn {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	
+}
+
+.copyright {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-align: justify
+	
+}
+
+*/
