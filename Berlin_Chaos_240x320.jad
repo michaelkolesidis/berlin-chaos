@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: Berlin Chaos Cracked by Kowciu
+MIDlet-1: Berlin Chaos, /iconcrush.png, BerlinChaos.BerlinChaos
+MIDlet-Icon: /iconcrush.png
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FDG / yychm
+MIDlet-Data-Size: 1024
+MIDlet-Info-URL: http://www.nokiasofware.net
+MIDlet-Jar-Size: 
+MIDlet-Jar-URL: Berlin Chaos (240x320)-119926.jar
+Nokia-MIDlet-Category: Game
